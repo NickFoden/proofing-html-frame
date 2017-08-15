@@ -1,0 +1,24 @@
+html,body {
+  font-family:"Helvetica" sans-serif;
+  }
+
+  a {
+    text-decoration:none;
+  }
+
+  .nav-bar li {
+      display: inline-flex;
+      padding: 20px;
+      align-items: center;
+  }
+
+.upload {
+  margin-left: 35px;
+  margin-top: 75px;
+}
+
+.photos li {
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+}
