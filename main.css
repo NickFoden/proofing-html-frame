@@ -22,3 +22,8 @@ html,body {
     padding: 20px;
     align-items: center;
 }
+
+.body {
+  background-image: url(https://www.adorama.com/alc/wp-content/uploads/2016/10/shutterstock_345189563_mezz-1366x800.jpg);
+  color: white;
+}
